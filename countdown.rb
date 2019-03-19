@@ -2,7 +2,7 @@
 
 def countdown(counter)
   counter = 11 
-  while counter >= 1
+  while counter >= 2
   counter -= 1 
   puts "#{counter} SECOND(S)!"
 end
