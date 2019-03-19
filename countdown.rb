@@ -1,6 +1,6 @@
 #write your code here
 
-def countdown
+def countdown(counter)
   counter = 10 
   while counter > 0 
   counter -= 1 
